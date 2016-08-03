@@ -1,0 +1,23 @@
+p{
+	width: 300px;
+	height: 200px ;
+	background-color: #FFFFFF; 
+	font-family: verdana,arial;
+}
+div p{
+	background-color: ##F5D0A9;
+	border: dashed 5px ;
+}
+.morada{
+	background-color: #A418FB;
+	padding:40px 80px 40px 80px;
+}
+
+.azul{
+	background-color: #BDD8FA;
+	padding:40px 80px 40px 80px;
+}
+.beige{
+	background-color: ##F5D0A9;
+	padding:40px 80px 40px 80px
+}
